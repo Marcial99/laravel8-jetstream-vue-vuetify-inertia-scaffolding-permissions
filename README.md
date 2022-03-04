@@ -1,4 +1,4 @@
-#LARAVEL 8 CON VUE Y VUETIFY
+# LARAVEL 8 CON VUE Y VUETIFY
 Este es un scaffolding de <a href="https://laravel.com/docs/8.x">Laravel 8</a> con la implementación de <a href="https://jetstream.laravel.com/2.x/introduction.html">Jetstream 2.1 </a>(Vue 2, Inertia, Tailwind CSS) con la implementación de <a href="https://vuetifyjs.com/en/">Vuetify</a><hr>
 Para instalar este proyecto sigue los siguientes pasos:
 1.- Clona el repositorio en tu carpeta de proyectos
