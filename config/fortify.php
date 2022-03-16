@@ -62,7 +62,7 @@ return [
     */
 
     'home' => RouteServiceProvider::HOME,
-
+    'test' => RouteServiceProvider::prueba,
     /*
     |--------------------------------------------------------------------------
     | Fortify Routes Prefix / Subdomain
